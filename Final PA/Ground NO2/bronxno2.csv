@@ -1,0 +1,404 @@
+Date,Source,Site ID,POC,Daily Max 1-hour NO2 Concentration,Units,Daily AQI Value,Local Site Name,Daily Obs Count,Percent Complete,AQS Parameter Code,AQS Parameter Description,Method Code,CBSA Code,CBSA Name,State FIPS Code,State,County FIPS Code,County,Site Latitude,Site Longitude
+01-01-2025,AQS,360050110,1,31.4,ppb,29,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-01-2025,AQS,360050110,1,14.8,ppb,13,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-01-2025,AQS,360050110,1,19.5,ppb,18,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-01-2025,AQS,360050110,1,13.5,ppb,12,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-01-2025,AQS,360050110,1,21.5,ppb,20,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-01-2025,AQS,360050110,1,35.3,ppb,33,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-01-2025,AQS,360050110,1,11.9,ppb,10,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-01-2025,AQS,360050110,1,22,ppb,21,IS 52,18,75,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-01-2025,AQS,360050110,1,28.2,ppb,26,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-01-2025,AQS,360050110,1,37.9,ppb,35,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-01-2025,AQS,360050110,1,32.3,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-01-2025,AQS,360050110,1,35.7,ppb,33,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-01-2025,AQS,360050110,1,17.7,ppb,16,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-01-2025,AQS,360050110,1,21.2,ppb,20,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-01-2025,AQS,360050110,1,32.2,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-01-2025,AQS,360050110,1,31.9,ppb,29,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-01-2025,AQS,360050110,1,40.4,ppb,38,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-01-2025,AQS,360050110,1,22.9,ppb,21,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-01-2025,AQS,360050110,1,19.5,ppb,18,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-01-2025,AQS,360050110,1,26.1,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-01-2025,AQS,360050110,1,46.7,ppb,43,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-01-2025,AQS,360050110,1,34,ppb,32,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-01-2025,AQS,360050110,1,37.3,ppb,35,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-01-2025,AQS,360050110,1,38.3,ppb,36,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-01-2025,AQS,360050110,1,29.7,ppb,27,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-01-2025,AQS,360050110,1,46.6,ppb,43,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-01-2025,AQS,360050110,1,30.5,ppb,28,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-01-2025,AQS,360050110,1,25.6,ppb,24,IS 52,22,92,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+31-01-2025,AQS,360050110,1,44.8,ppb,42,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-02-2025,AQS,360050110,1,29.6,ppb,27,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-02-2025,AQS,360050110,1,40.9,ppb,38,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-02-2025,AQS,360050110,1,42.9,ppb,40,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-02-2025,AQS,360050110,1,24.6,ppb,23,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-02-2025,AQS,360050110,1,36.9,ppb,34,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-02-2025,AQS,360050110,1,43.9,ppb,41,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-02-2025,AQS,360050110,1,23.6,ppb,22,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-02-2025,AQS,360050110,1,25.8,ppb,24,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-02-2025,AQS,360050110,1,25.3,ppb,24,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-02-2025,AQS,360050110,1,23.7,ppb,22,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-02-2025,AQS,360050110,1,40,ppb,38,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-02-2025,AQS,360050110,1,32.9,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-02-2025,AQS,360050110,1,36.1,ppb,34,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-02-2025,AQS,360050110,1,18.8,ppb,17,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-02-2025,AQS,360050110,1,30.1,ppb,28,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-02-2025,AQS,360050110,1,43.1,ppb,41,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-02-2025,AQS,360050110,1,12.3,ppb,11,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-02-2025,AQS,360050110,1,14.8,ppb,13,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-02-2025,AQS,360050110,1,18.6,ppb,17,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-02-2025,AQS,360050110,1,21.3,ppb,20,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-02-2025,AQS,360050110,1,12.6,ppb,11,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-02-2025,AQS,360050110,1,32.8,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-02-2025,AQS,360050110,1,28.9,ppb,26,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-02-2025,AQS,360050110,1,33.9,ppb,31,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-02-2025,AQS,360050110,1,45.9,ppb,42,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-02-2025,AQS,360050110,1,28.8,ppb,26,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-02-2025,AQS,360050110,1,48.5,ppb,45,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-02-2025,AQS,360050110,1,27.5,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-03-2025,AQS,360050110,1,41.5,ppb,39,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-03-2025,AQS,360050110,1,9.7,ppb,8,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-03-2025,AQS,360050110,1,39,ppb,37,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-03-2025,AQS,360050110,1,39.9,ppb,37,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-03-2025,AQS,360050110,1,35.7,ppb,33,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-03-2025,AQS,360050110,1,33.8,ppb,31,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-03-2025,AQS,360050110,1,19.3,ppb,18,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-03-2025,AQS,360050110,1,19.8,ppb,18,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-03-2025,AQS,360050110,1,26.8,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-03-2025,AQS,360050110,1,49.6,ppb,46,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-03-2025,AQS,360050110,1,60.5,ppb,57,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-03-2025,AQS,360050110,1,32.7,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-03-2025,AQS,360050110,1,24.9,ppb,23,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-03-2025,AQS,360050110,1,33.6,ppb,31,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-03-2025,AQS,360050110,1,25.5,ppb,24,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-03-2025,AQS,360050110,1,33,ppb,31,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-03-2025,AQS,360050110,1,53.5,ppb,50,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-03-2025,AQS,360050110,1,50.5,ppb,47,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-03-2025,AQS,360050110,1,48.3,ppb,45,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-03-2025,AQS,360050110,1,27.8,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-03-2025,AQS,360050110,1,17,ppb,16,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-03-2025,AQS,360050110,1,47.1,ppb,44,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-03-2025,AQS,360050110,1,18.7,ppb,17,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-03-2025,AQS,360050110,1,47,ppb,44,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-03-2025,AQS,360050110,1,25.5,ppb,24,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-03-2025,AQS,360050110,1,23.2,ppb,22,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-03-2025,AQS,360050110,1,23.8,ppb,22,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-03-2025,AQS,360050110,1,52,ppb,49,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-03-2025,AQS,360050110,1,50.1,ppb,47,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-03-2025,AQS,360050110,1,15.2,ppb,14,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+31-03-2025,AQS,360050110,1,50.7,ppb,47,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-04-2025,AQS,360050110,1,15.6,ppb,14,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-04-2025,AQS,360050110,1,19.3,ppb,18,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-04-2025,AQS,360050110,1,44.4,ppb,42,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-04-2025,AQS,360050110,1,42.8,ppb,40,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-04-2025,AQS,360050110,1,12.5,ppb,11,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-04-2025,AQS,360050110,1,18.5,ppb,17,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-04-2025,AQS,360050110,1,17.8,ppb,16,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-04-2025,AQS,360050110,1,25.3,ppb,24,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-04-2025,AQS,360050110,1,22,ppb,21,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-04-2025,AQS,360050110,1,47.6,ppb,44,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-04-2025,AQS,360050110,1,21.7,ppb,20,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-04-2025,AQS,360050110,1,12.9,ppb,11,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-04-2025,AQS,360050110,1,33.8,ppb,31,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-04-2025,AQS,360050110,1,39.3,ppb,37,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-04-2025,AQS,360050110,1,47.1,ppb,44,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-04-2025,AQS,360050110,1,27.6,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-04-2025,AQS,360050110,1,56.1,ppb,53,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-04-2025,AQS,360050110,1,23.1,ppb,22,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-04-2025,AQS,360050110,1,12.6,ppb,11,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-04-2025,AQS,360050110,1,18.7,ppb,17,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-04-2025,AQS,360050110,1,41.5,ppb,39,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-04-2025,AQS,360050110,1,56.6,ppb,53,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-04-2025,AQS,360050110,1,63.7,ppb,61,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-04-2025,AQS,360050110,1,39.9,ppb,37,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-04-2025,AQS,360050110,1,21.7,ppb,20,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-04-2025,AQS,360050110,1,10.6,ppb,9,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-04-2025,AQS,360050110,1,22.1,ppb,21,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-04-2025,AQS,360050110,1,21.1,ppb,20,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-05-2025,AQS,360050110,1,18.6,ppb,17,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-05-2025,AQS,360050110,1,38.9,ppb,36,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-05-2025,AQS,360050110,1,37.9,ppb,35,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-05-2025,AQS,360050110,1,22,ppb,21,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-05-2025,AQS,360050110,1,13.2,ppb,12,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-05-2025,AQS,360050110,1,29.7,ppb,27,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-05-2025,AQS,360050110,1,51.8,ppb,48,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-05-2025,AQS,360050110,1,44,ppb,42,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-05-2025,AQS,360050110,1,14.8,ppb,13,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-05-2025,AQS,360050110,1,25.6,ppb,24,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-05-2025,AQS,360050110,1,26.5,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-05-2025,AQS,360050110,1,29.8,ppb,27,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-05-2025,AQS,360050110,1,40.3,ppb,38,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-05-2025,AQS,360050110,1,17,ppb,16,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-05-2025,AQS,360050110,1,27.6,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-05-2025,AQS,360050110,1,36.5,ppb,34,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-05-2025,AQS,360050110,1,33,ppb,31,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-05-2025,AQS,360050110,1,4.1,ppb,4,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-05-2025,AQS,360050110,1,5,ppb,5,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-05-2025,AQS,360050110,1,10.4,ppb,9,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-05-2025,AQS,360050110,1,13.4,ppb,12,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-05-2025,AQS,360050110,1,12.7,ppb,11,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-05-2025,AQS,360050110,1,24.2,ppb,23,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-05-2025,AQS,360050110,1,8.2,ppb,8,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-05-2025,AQS,360050110,1,6.5,ppb,6,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-05-2025,AQS,360050110,1,27.3,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-05-2025,AQS,360050110,1,29.1,ppb,27,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-05-2025,AQS,360050110,1,31,ppb,29,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-05-2025,AQS,360050110,1,29.3,ppb,27,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+31-05-2025,AQS,360050110,1,7.9,ppb,7,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-06-2025,AQS,360050110,1,15.9,ppb,14,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-06-2025,AQS,360050110,1,40.2,ppb,38,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-06-2025,AQS,360050110,1,41.9,ppb,39,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-06-2025,AQS,360050110,1,39.4,ppb,37,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-06-2025,AQS,360050110,1,24.1,ppb,23,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-06-2025,AQS,360050110,1,33.2,ppb,31,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-06-2025,AQS,360050110,1,11.9,ppb,10,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-06-2025,AQS,360050110,1,44.1,ppb,42,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-06-2025,AQS,360050110,1,32.9,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-06-2025,AQS,360050110,1,25.3,ppb,24,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-06-2025,AQS,360050110,1,17.2,ppb,16,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-06-2025,AQS,360050110,1,8,ppb,8,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-06-2025,AQS,360050110,1,23.6,ppb,22,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-06-2025,AQS,360050110,1,14.3,ppb,13,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-06-2025,AQS,360050110,1,32.9,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-06-2025,AQS,360050110,1,39.4,ppb,37,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-06-2025,AQS,360050110,1,36.9,ppb,34,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-06-2025,AQS,360050110,1,16.7,ppb,15,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-06-2025,AQS,360050110,1,31.5,ppb,29,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-06-2025,AQS,360050110,1,19.1,ppb,18,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-06-2025,AQS,360050110,1,69.3,ppb,67,IS 52,20,83,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-06-2025,AQS,360050110,1,32.3,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-06-2025,AQS,360050110,1,16.9,ppb,15,IS 52,20,83,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-06-2025,AQS,360050110,1,9.6,ppb,8,IS 52,18,75,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-06-2025,AQS,360050110,1,49.7,ppb,46,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-06-2025,AQS,360050110,1,31.6,ppb,29,IS 52,18,75,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-07-2025,AQS,360050110,1,32.7,ppb,30,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-07-2025,AQS,360050110,1,34.3,ppb,32,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-07-2025,AQS,360050110,1,23.9,ppb,22,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-07-2025,AQS,360050110,1,14.3,ppb,13,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-07-2025,AQS,360050110,1,13.2,ppb,12,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-07-2025,AQS,360050110,1,13.7,ppb,12,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-07-2025,AQS,360050110,1,14.6,ppb,13,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-07-2025,AQS,360050110,1,22.5,ppb,21,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-07-2025,AQS,360050110,1,17,ppb,16,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-07-2025,AQS,360050110,1,38.4,ppb,36,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-07-2025,AQS,360050110,1,27.3,ppb,25,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-07-2025,AQS,360050110,1,22.1,ppb,21,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-07-2025,AQS,360050110,1,12.1,ppb,11,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-07-2025,AQS,360050110,1,18,ppb,17,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-07-2025,AQS,360050110,1,17.4,ppb,16,IS 52,18,75,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-07-2025,AQS,360050110,1,18.7,ppb,17,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-07-2025,AQS,360050110,1,20.4,ppb,19,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-07-2025,AQS,360050110,1,11.4,ppb,10,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-07-2025,AQS,360050110,1,14.5,ppb,13,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-07-2025,AQS,360050110,1,10.3,ppb,9,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-07-2025,AQS,360050110,1,9.5,ppb,8,IS 52,19,79,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-07-2025,AQS,360050110,1,13,ppb,12,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-07-2025,AQS,360050110,1,25.8,ppb,24,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-07-2025,AQS,360050110,1,26.4,ppb,25,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-07-2025,AQS,360050110,1,16.8,ppb,15,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-07-2025,AQS,360050110,1,12.6,ppb,11,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-07-2025,AQS,360050110,1,24.5,ppb,23,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-07-2025,AQS,360050110,1,28.9,ppb,26,IS 52,23,96,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-07-2025,AQS,360050110,1,48.8,ppb,45,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-07-2025,AQS,360050110,1,37.4,ppb,35,IS 52,24,100,42602,Nitrogen dioxide (NO2),574,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-01-2025,AQS,360050133,1,28,ppb,26,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-01-2025,AQS,360050133,1,13.8,ppb,12,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-01-2025,AQS,360050133,1,21,ppb,20,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-01-2025,AQS,360050133,1,10.2,ppb,9,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-01-2025,AQS,360050133,1,17.2,ppb,16,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-01-2025,AQS,360050133,1,27.5,ppb,25,PFIZER LAB SITE,21,88,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-01-2025,AQS,360050133,1,10,ppb,9,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-01-2025,AQS,360050133,1,11.2,ppb,10,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-01-2025,AQS,360050133,1,8.6,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-01-2025,AQS,360050133,1,24.1,ppb,23,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-01-2025,AQS,360050133,1,36.9,ppb,34,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-01-2025,AQS,360050133,1,31.7,ppb,29,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-01-2025,AQS,360050133,1,37.4,ppb,35,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-01-2025,AQS,360050133,1,20.8,ppb,19,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-01-2025,AQS,360050133,1,16.6,ppb,15,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-01-2025,AQS,360050133,1,32.8,ppb,30,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-01-2025,AQS,360050133,1,35.8,ppb,33,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-01-2025,AQS,360050133,1,36.3,ppb,34,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-01-2025,AQS,360050133,1,23,ppb,22,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-01-2025,AQS,360050133,1,35.6,ppb,33,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-01-2025,AQS,360050133,1,42,ppb,40,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-01-2025,AQS,360050133,1,33.6,ppb,31,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-01-2025,AQS,360050133,1,34.9,ppb,32,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-01-2025,AQS,360050133,1,34.4,ppb,32,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-01-2025,AQS,360050133,1,33.7,ppb,31,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-01-2025,AQS,360050133,1,44.7,ppb,42,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-01-2025,AQS,360050133,1,43.4,ppb,41,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-01-2025,AQS,360050133,1,41.7,ppb,39,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+31-01-2025,AQS,360050133,1,43.4,ppb,41,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-02-2025,AQS,360050133,1,31.3,ppb,29,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-02-2025,AQS,360050133,1,34.4,ppb,32,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-02-2025,AQS,360050133,1,43.4,ppb,41,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-02-2025,AQS,360050133,1,29.9,ppb,27,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-02-2025,AQS,360050133,1,30.4,ppb,28,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-02-2025,AQS,360050133,1,41.9,ppb,39,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-02-2025,AQS,360050133,1,22.4,ppb,21,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-02-2025,AQS,360050133,1,24.3,ppb,23,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-02-2025,AQS,360050133,1,27.5,ppb,25,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-02-2025,AQS,360050133,1,21.3,ppb,20,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-02-2025,AQS,360050133,1,41.6,ppb,39,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-02-2025,AQS,360050133,1,26.9,ppb,25,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-02-2025,AQS,360050133,1,32.5,ppb,30,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-02-2025,AQS,360050133,1,11.9,ppb,10,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-02-2025,AQS,360050133,1,22.1,ppb,21,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-02-2025,AQS,360050133,1,38.8,ppb,36,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-02-2025,AQS,360050133,1,9.6,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-02-2025,AQS,360050133,1,10.8,ppb,9,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-02-2025,AQS,360050133,1,15.4,ppb,14,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-02-2025,AQS,360050133,1,17.9,ppb,16,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-02-2025,AQS,360050133,1,10.4,ppb,9,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-02-2025,AQS,360050133,1,30.5,ppb,28,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-02-2025,AQS,360050133,1,25.6,ppb,24,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-02-2025,AQS,360050133,1,25.7,ppb,24,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-02-2025,AQS,360050133,1,45.8,ppb,42,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-02-2025,AQS,360050133,1,21.8,ppb,20,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-02-2025,AQS,360050133,1,43.4,ppb,41,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-02-2025,AQS,360050133,1,23.6,ppb,22,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-03-2025,AQS,360050133,1,32.8,ppb,30,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-03-2025,AQS,360050133,1,7.8,ppb,7,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-03-2025,AQS,360050133,1,43.7,ppb,41,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-03-2025,AQS,360050133,1,43.3,ppb,41,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-03-2025,AQS,360050133,1,27.6,ppb,25,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-03-2025,AQS,360050133,1,35,ppb,33,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-03-2025,AQS,360050133,1,20.3,ppb,19,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-03-2025,AQS,360050133,1,18.3,ppb,17,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-03-2025,AQS,360050133,1,25.2,ppb,24,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-03-2025,AQS,360050133,1,41.2,ppb,39,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-03-2025,AQS,360050133,1,49.5,ppb,46,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-03-2025,AQS,360050133,1,18.5,ppb,17,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-03-2025,AQS,360050133,1,15.2,ppb,14,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-03-2025,AQS,360050133,1,28.8,ppb,26,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-03-2025,AQS,360050133,1,17.2,ppb,16,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-03-2025,AQS,360050133,1,25.1,ppb,24,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-03-2025,AQS,360050133,1,44.8,ppb,42,PFIZER LAB SITE,21,88,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-03-2025,AQS,360050133,1,43.5,ppb,41,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-03-2025,AQS,360050133,1,40.8,ppb,38,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-03-2025,AQS,360050133,1,16.3,ppb,15,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-03-2025,AQS,360050133,1,16.6,ppb,15,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-03-2025,AQS,360050133,1,46.2,ppb,43,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-03-2025,AQS,360050133,1,17.7,ppb,16,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-03-2025,AQS,360050133,1,41.4,ppb,39,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-03-2025,AQS,360050133,1,26.3,ppb,25,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-03-2025,AQS,360050133,1,20.3,ppb,19,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-03-2025,AQS,360050133,1,28.7,ppb,26,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-03-2025,AQS,360050133,1,49.1,ppb,46,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-03-2025,AQS,360050133,1,42.3,ppb,40,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-03-2025,AQS,360050133,1,9.3,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+31-03-2025,AQS,360050133,1,34.8,ppb,32,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-04-2025,AQS,360050133,1,42.8,ppb,40,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-04-2025,AQS,360050133,1,39.3,ppb,37,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-04-2025,AQS,360050133,1,8.7,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-04-2025,AQS,360050133,1,11.9,ppb,10,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-04-2025,AQS,360050133,1,12.6,ppb,11,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-04-2025,AQS,360050133,1,20.5,ppb,19,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-04-2025,AQS,360050133,1,25.2,ppb,24,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-04-2025,AQS,360050133,1,35,ppb,33,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-04-2025,AQS,360050133,1,12.9,ppb,11,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-04-2025,AQS,360050133,1,11.4,ppb,10,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-04-2025,AQS,360050133,1,32.3,ppb,30,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-04-2025,AQS,360050133,1,41.7,ppb,39,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-04-2025,AQS,360050133,1,41.6,ppb,39,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-04-2025,AQS,360050133,1,9.7,ppb,8,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-04-2025,AQS,360050133,1,31.2,ppb,29,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-04-2025,AQS,360050133,1,53.4,ppb,50,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-04-2025,AQS,360050133,1,23.8,ppb,22,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-04-2025,AQS,360050133,1,13.4,ppb,12,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-04-2025,AQS,360050133,1,19.7,ppb,18,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-04-2025,AQS,360050133,1,24.2,ppb,23,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-04-2025,AQS,360050133,1,53.1,ppb,50,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-04-2025,AQS,360050133,1,47.8,ppb,44,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-04-2025,AQS,360050133,1,23.6,ppb,22,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-04-2025,AQS,360050133,1,16.8,ppb,15,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-04-2025,AQS,360050133,1,8.7,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-04-2025,AQS,360050133,1,35.8,ppb,33,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-04-2025,AQS,360050133,1,25.3,ppb,24,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-04-2025,AQS,360050133,1,14.9,ppb,13,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-05-2025,AQS,360050133,1,16.7,ppb,15,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-05-2025,AQS,360050133,1,40.4,ppb,38,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-05-2025,AQS,360050133,1,26.6,ppb,25,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-05-2025,AQS,360050133,1,19.9,ppb,18,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-05-2025,AQS,360050133,1,9.4,ppb,8,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-05-2025,AQS,360050133,1,29.1,ppb,27,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-05-2025,AQS,360050133,1,41.6,ppb,39,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-05-2025,AQS,360050133,1,44.4,ppb,42,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-05-2025,AQS,360050133,1,11.7,ppb,10,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-05-2025,AQS,360050133,1,24.6,ppb,23,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-05-2025,AQS,360050133,1,29.1,ppb,27,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-05-2025,AQS,360050133,1,25.2,ppb,24,PFIZER LAB SITE,21,88,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-05-2025,AQS,360050133,1,31.5,ppb,29,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-05-2025,AQS,360050133,1,9.2,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-05-2025,AQS,360050133,1,18.5,ppb,17,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-05-2025,AQS,360050133,1,35.5,ppb,33,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-05-2025,AQS,360050133,1,26.2,ppb,25,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-05-2025,AQS,360050133,1,4.3,ppb,4,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-05-2025,AQS,360050133,1,4.6,ppb,4,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-05-2025,AQS,360050133,1,10.2,ppb,9,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-05-2025,AQS,360050133,1,10.2,ppb,9,PFIZER LAB SITE,21,88,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-05-2025,AQS,360050133,1,8.5,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-05-2025,AQS,360050133,1,22.4,ppb,21,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-05-2025,AQS,360050133,1,9,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-05-2025,AQS,360050133,1,6.6,ppb,6,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-05-2025,AQS,360050133,1,33.6,ppb,31,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-05-2025,AQS,360050133,1,30.2,ppb,28,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-05-2025,AQS,360050133,1,30.5,ppb,28,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-05-2025,AQS,360050133,1,33.5,ppb,31,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-05-2025,AQS,360050133,1,25.2,ppb,24,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+31-05-2025,AQS,360050133,1,4.9,ppb,4,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-06-2025,AQS,360050133,1,13.6,ppb,12,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-06-2025,AQS,360050133,1,40.5,ppb,38,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-06-2025,AQS,360050133,1,40.4,ppb,38,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-06-2025,AQS,360050133,1,36.8,ppb,34,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-06-2025,AQS,360050133,1,44.3,ppb,42,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-06-2025,AQS,360050133,1,21,ppb,20,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-06-2025,AQS,360050133,1,23.7,ppb,22,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-06-2025,AQS,360050133,1,5.5,ppb,5,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-06-2025,AQS,360050133,1,5.1,ppb,5,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-06-2025,AQS,360050133,1,35.8,ppb,33,PFIZER LAB SITE,20,83,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-06-2025,AQS,360050133,1,20.6,ppb,19,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-06-2025,AQS,360050133,1,22.1,ppb,21,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-06-2025,AQS,360050133,1,11.4,ppb,10,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-06-2025,AQS,360050133,1,5.4,ppb,5,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-06-2025,AQS,360050133,1,18.9,ppb,17,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-06-2025,AQS,360050133,1,7.7,ppb,7,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-06-2025,AQS,360050133,1,16.6,ppb,15,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-06-2025,AQS,360050133,1,28.5,ppb,26,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-06-2025,AQS,360050133,1,22.6,ppb,21,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-06-2025,AQS,360050133,1,15.5,ppb,14,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-06-2025,AQS,360050133,1,25.8,ppb,24,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-06-2025,AQS,360050133,1,19.2,ppb,18,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-06-2025,AQS,360050133,1,35,ppb,33,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-06-2025,AQS,360050133,1,37.6,ppb,35,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-06-2025,AQS,360050133,1,11.5,ppb,10,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-06-2025,AQS,360050133,1,7,ppb,7,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-06-2025,AQS,360050133,1,6,ppb,6,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-06-2025,AQS,360050133,1,23.7,ppb,22,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-06-2025,AQS,360050133,1,32.6,ppb,30,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-06-2025,AQS,360050133,1,19.1,ppb,18,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-07-2025,AQS,360050133,1,28.5,ppb,26,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-07-2025,AQS,360050133,1,29.8,ppb,27,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-07-2025,AQS,360050133,1,18.6,ppb,17,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-07-2025,AQS,360050133,1,17.3,ppb,16,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-07-2025,AQS,360050133,1,25.6,ppb,24,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-07-2025,AQS,360050133,1,10.9,ppb,9,PFIZER LAB SITE,22,92,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-07-2025,AQS,360050133,1,10.6,ppb,9,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-07-2025,AQS,360050133,1,5.8,ppb,5,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-07-2025,AQS,360050133,1,19.6,ppb,18,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-07-2025,AQS,360050133,1,22.3,ppb,21,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-07-2025,AQS,360050133,1,17.1,ppb,16,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-07-2025,AQS,360050133,1,9.9,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-07-2025,AQS,360050133,1,13.8,ppb,12,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-07-2025,AQS,360050133,1,6.8,ppb,6,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-07-2025,AQS,360050133,1,8.1,ppb,8,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-07-2025,AQS,360050133,1,11.6,ppb,10,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-07-2025,AQS,360050133,1,19.1,ppb,18,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-07-2025,AQS,360050133,1,20.3,ppb,19,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-07-2025,AQS,360050133,1,17.2,ppb,16,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-07-2025,AQS,360050133,1,14.7,ppb,13,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-07-2025,AQS,360050133,1,28.7,ppb,26,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-07-2025,AQS,360050133,1,27.7,ppb,25,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-07-2025,AQS,360050133,1,34.8,ppb,32,PFIZER LAB SITE,24,100,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-07-2025,AQS,360050133,1,42.6,ppb,40,PFIZER LAB SITE,23,96,42602,Nitrogen dioxide (NO2),212,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809

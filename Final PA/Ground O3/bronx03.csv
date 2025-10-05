@@ -1,0 +1,534 @@
+Date,Source,Site ID,POC,Daily Max 8-hour Ozone Concentration,Units,Daily AQI Value,Local Site Name,Daily Obs Count,Percent Complete,AQS Parameter Code,AQS Parameter Description,Method Code,CBSA Code,CBSA Name,State FIPS Code,State,County FIPS Code,County,Site Latitude,Site Longitude
+01-01-2025,AirNow,360050110,1,0.029,ppm,27,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-01-2025,AirNow,360050110,1,0.021,ppm,19,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-01-2025,AirNow,360050110,1,0.024,ppm,22,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-01-2025,AirNow,360050110,1,0.033,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-01-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-01-2025,AirNow,360050110,1,0.024,ppm,22,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-01-2025,AirNow,360050110,1,0.027,ppm,25,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-01-2025,AirNow,360050110,1,0.032,ppm,30,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-01-2025,AirNow,360050110,1,0.031,ppm,29,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-01-2025,AirNow,360050110,1,0.029,ppm,27,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-01-2025,AirNow,360050110,1,0.032,ppm,30,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-01-2025,AirNow,360050110,1,0.027,ppm,25,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-01-2025,AirNow,360050110,1,0.023,ppm,21,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-01-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,22,92,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-01-2025,AirNow,360050110,1,0.031,ppm,29,IS 52,21,88,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-01-2025,AirNow,360050110,1,0.014,ppm,13,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-01-2025,AirNow,360050110,1,0.019,ppm,18,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-01-2025,AirNow,360050110,1,0.022,ppm,20,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-01-2025,AirNow,360050110,1,0.027,ppm,25,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-01-2025,AirNow,360050110,1,0.032,ppm,30,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-01-2025,AirNow,360050110,1,0.021,ppm,19,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-01-2025,AirNow,360050110,1,0.023,ppm,21,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-01-2025,AirNow,360050110,1,0.015,ppm,14,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-01-2025,AirNow,360050110,1,0.026,ppm,24,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-01-2025,AirNow,360050110,1,0.028,ppm,26,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-01-2025,AirNow,360050110,1,0.031,ppm,29,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-01-2025,AirNow,360050110,1,0.029,ppm,27,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-01-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-01-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-01-2025,AirNow,360050110,1,0.032,ppm,30,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+31-01-2025,AirNow,360050110,1,0.012,ppm,11,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-02-2025,AirNow,360050110,1,0.034,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-02-2025,AirNow,360050110,1,0.027,ppm,25,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-02-2025,AirNow,360050110,1,0.009,ppm,8,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-02-2025,AirNow,360050110,1,0.034,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-02-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-02-2025,AirNow,360050110,1,0.012,ppm,11,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-02-2025,AirNow,360050110,1,0.031,ppm,29,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-02-2025,AirNow,360050110,1,0.025,ppm,23,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-02-2025,AirNow,360050110,1,0.027,ppm,25,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-02-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-02-2025,AirNow,360050110,1,0.02,ppm,19,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-02-2025,AirNow,360050110,1,0.027,ppm,25,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-02-2025,AirNow,360050110,1,0.033,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-02-2025,AirNow,360050110,1,0.037,ppm,34,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-02-2025,AirNow,360050110,1,0.034,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-02-2025,AirNow,360050110,1,0.034,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-02-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-02-2025,AirNow,360050110,1,0.034,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-02-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-02-2025,AirNow,360050110,1,0.025,ppm,23,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-02-2025,AirNow,360050110,1,0.033,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-02-2025,AirNow,360050110,1,0.033,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-02-2025,AirNow,360050110,1,0.037,ppm,34,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-02-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-02-2025,AirNow,360050110,1,0.026,ppm,24,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-02-2025,AirNow,360050110,1,0.04,ppm,37,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-02-2025,AirNow,360050110,1,0.029,ppm,27,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-02-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-03-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-03-2025,AirNow,360050110,1,0.038,ppm,35,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-03-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-03-2025,AirNow,360050110,1,0.032,ppm,30,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-03-2025,AirNow,360050110,1,0.039,ppm,36,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-03-2025,AirNow,360050110,1,0.041,ppm,38,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-03-2025,AirNow,360050110,1,0.042,ppm,39,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-03-2025,AirNow,360050110,1,0.042,ppm,39,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-03-2025,AirNow,360050110,1,0.039,ppm,36,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-03-2025,AirNow,360050110,1,0.043,ppm,40,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-03-2025,AirNow,360050110,1,0.043,ppm,40,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-03-2025,AirNow,360050110,1,0.034,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-03-2025,AirNow,360050110,1,0.041,ppm,38,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-03-2025,AirNow,360050110,1,0.032,ppm,30,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-03-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-03-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-03-2025,AirNow,360050110,1,0.022,ppm,20,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-03-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-03-2025,AirNow,360050110,1,0.032,ppm,30,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-03-2025,AirNow,360050110,1,0.024,ppm,22,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-03-2025,AirNow,360050110,1,0.04,ppm,37,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-03-2025,AirNow,360050110,1,0.043,ppm,40,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-03-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-03-2025,AirNow,360050110,1,0.033,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-03-2025,AirNow,360050110,1,0.042,ppm,39,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-03-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-03-2025,AirNow,360050110,1,0.04,ppm,37,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-03-2025,AirNow,360050110,1,0.04,ppm,37,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-03-2025,AirNow,360050110,1,0.046,ppm,43,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-03-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+31-03-2025,AirNow,360050110,1,0.028,ppm,26,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-04-2025,AQS,360050110,1,0.041,ppm,38,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-04-2025,AQS,360050110,1,0.039,ppm,36,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-04-2025,AQS,360050110,1,0.021,ppm,19,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-04-2025,AQS,360050110,1,0.038,ppm,35,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-04-2025,AQS,360050110,1,0.033,ppm,31,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-04-2025,AQS,360050110,1,0.035,ppm,32,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-04-2025,AQS,360050110,1,0.028,ppm,26,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-04-2025,AQS,360050110,1,0.039,ppm,36,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-04-2025,AQS,360050110,1,0.041,ppm,38,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-04-2025,AQS,360050110,1,0.042,ppm,39,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-04-2025,AQS,360050110,1,0.04,ppm,37,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-04-2025,AQS,360050110,1,0.036,ppm,33,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-04-2025,AQS,360050110,1,0.04,ppm,37,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-04-2025,AQS,360050110,1,0.033,ppm,31,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-04-2025,AQS,360050110,1,0.043,ppm,40,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-04-2025,AQS,360050110,1,0.036,ppm,33,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-04-2025,AQS,360050110,1,0.046,ppm,43,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-04-2025,AQS,360050110,1,0.051,ppm,47,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-04-2025,AQS,360050110,1,0.051,ppm,47,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-04-2025,AQS,360050110,1,0.044,ppm,41,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-04-2025,AQS,360050110,1,0.038,ppm,35,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-04-2025,AQS,360050110,1,0.047,ppm,44,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-04-2025,AQS,360050110,1,0.051,ppm,47,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-04-2025,AQS,360050110,1,0.052,ppm,48,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-04-2025,AQS,360050110,1,0.049,ppm,45,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-04-2025,AQS,360050110,1,0.037,ppm,34,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-04-2025,AQS,360050110,1,0.037,ppm,34,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-04-2025,AQS,360050110,1,0.053,ppm,49,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-04-2025,AQS,360050110,1,0.044,ppm,41,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-04-2025,AQS,360050110,1,0.044,ppm,41,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-05-2025,AQS,360050110,1,0.044,ppm,41,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-05-2025,AQS,360050110,1,0.05,ppm,46,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-05-2025,AQS,360050110,1,0.047,ppm,44,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-05-2025,AQS,360050110,1,0.036,ppm,33,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-05-2025,AQS,360050110,1,0.029,ppm,27,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-05-2025,AQS,360050110,1,0.033,ppm,31,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-05-2025,AQS,360050110,1,0.041,ppm,38,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-05-2025,AQS,360050110,1,0.049,ppm,45,IS 52,13,76,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-05-2025,AQS,360050110,1,0.029,ppm,27,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-05-2025,AQS,360050110,1,0.042,ppm,39,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-05-2025,AQS,360050110,1,0.053,ppm,49,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-05-2025,AQS,360050110,1,0.048,ppm,44,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-05-2025,AQS,360050110,1,0.037,ppm,34,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-05-2025,AQS,360050110,1,0.032,ppm,30,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-05-2025,AQS,360050110,1,0.033,ppm,31,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-05-2025,AQS,360050110,1,0.027,ppm,25,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-05-2025,AQS,360050110,1,0.048,ppm,44,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-05-2025,AQS,360050110,1,0.037,ppm,34,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-05-2025,AQS,360050110,1,0.035,ppm,32,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-05-2025,AQS,360050110,1,0.028,ppm,26,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-05-2025,AQS,360050110,1,0.031,ppm,29,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-05-2025,AQS,360050110,1,0.025,ppm,23,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-05-2025,AQS,360050110,1,0.019,ppm,18,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-05-2025,AQS,360050110,1,0.025,ppm,23,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-05-2025,AQS,360050110,1,0.031,ppm,29,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-05-2025,AQS,360050110,1,0.04,ppm,37,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-05-2025,AQS,360050110,1,0.039,ppm,36,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-05-2025,AQS,360050110,1,0.031,ppm,29,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-05-2025,AQS,360050110,1,0.037,ppm,34,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-05-2025,AQS,360050110,1,0.032,ppm,30,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+31-05-2025,AQS,360050110,1,0.037,ppm,34,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-06-2025,AirNow,360050110,1,0.037,ppm,34,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-06-2025,AQS,360050110,1,0.043,ppm,40,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-06-2025,AQS,360050110,1,0.051,ppm,47,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-06-2025,AQS,360050110,1,0.059,ppm,64,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-06-2025,AQS,360050110,1,0.067,ppm,90,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-06-2025,AQS,360050110,1,0.058,ppm,61,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-06-2025,AQS,360050110,1,0.032,ppm,30,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-06-2025,AirNow,360050110,1,0.046,ppm,43,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-06-2025,AQS,360050110,1,0.039,ppm,36,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-06-2025,AQS,360050110,1,0.028,ppm,26,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-06-2025,AQS,360050110,1,0.064,ppm,80,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-06-2025,AQS,360050110,1,0.075,ppm,115,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-06-2025,AQS,360050110,1,0.053,ppm,49,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-06-2025,AQS,360050110,1,0.035,ppm,32,IS 52,15,88,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-06-2025,AQS,360050110,1,0.033,ppm,31,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-06-2025,AQS,360050110,1,0.014,ppm,13,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-06-2025,AQS,360050110,1,0.039,ppm,36,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-06-2025,AQS,360050110,1,0.044,ppm,41,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-06-2025,AQS,360050110,1,0.045,ppm,42,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-06-2025,AQS,360050110,1,0.071,ppm,101,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-06-2025,AirNow,360050110,1,0.04,ppm,37,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-06-2025,AQS,360050110,1,0.077,ppm,122,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-06-2025,AQS,360050110,1,0.056,ppm,54,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-06-2025,AQS,360050110,1,0.052,ppm,48,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-06-2025,AQS,360050110,1,0.035,ppm,32,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-06-2025,AQS,360050110,1,0.035,ppm,32,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-06-2025,AQS,360050110,1,0.039,ppm,36,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-06-2025,AirNow,360050110,1,0.054,ppm,50,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-06-2025,AQS,360050110,1,0.065,ppm,84,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-07-2025,AQS,360050110,1,0.049,ppm,45,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-07-2025,AQS,360050110,1,0.045,ppm,42,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-07-2025,AQS,360050110,1,0.059,ppm,64,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-07-2025,AQS,360050110,1,0.038,ppm,35,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-07-2025,AQS,360050110,1,0.061,ppm,71,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-07-2025,AirNow,360050110,1,0.062,ppm,74,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-07-2025,AQS,360050110,1,0.027,ppm,25,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-07-2025,AQS,360050110,1,0.058,ppm,61,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-07-2025,AQS,360050110,1,0.058,ppm,61,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-07-2025,AQS,360050110,1,0.058,ppm,61,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-07-2025,AQS,360050110,1,0.049,ppm,45,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-07-2025,AQS,360050110,1,0.046,ppm,43,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-07-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-07-2025,AQS,360050110,1,0.029,ppm,27,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-07-2025,AQS,360050110,1,0.05,ppm,46,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-07-2025,AQS,360050110,1,0.048,ppm,44,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-07-2025,AQS,360050110,1,0.044,ppm,41,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+19-07-2025,AQS,360050110,1,0.053,ppm,49,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-07-2025,AirNow,360050110,1,0.06,ppm,67,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-07-2025,AQS,360050110,1,0.044,ppm,41,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-07-2025,AQS,360050110,1,0.04,ppm,37,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-07-2025,AQS,360050110,1,0.04,ppm,37,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-07-2025,AQS,360050110,1,0.047,ppm,44,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-07-2025,AQS,360050110,1,0.058,ppm,61,IS 52,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-07-2025,AQS,360050110,1,0.072,ppm,105,IS 52,16,94,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-07-2025,AQS,360050110,1,0.076,ppm,119,IS 52,12,71,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+31-07-2025,AirNow,360050110,1,0.048,ppm,44,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-08-2025,AirNow,360050110,1,0.034,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-08-2025,AirNow,360050110,1,0.044,ppm,41,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-08-2025,AirNow,360050110,1,0.045,ppm,42,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-08-2025,AirNow,360050110,1,0.069,ppm,97,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-08-2025,AirNow,360050110,1,0.057,ppm,58,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-08-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-08-2025,AirNow,360050110,1,0.043,ppm,40,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-08-2025,AirNow,360050110,1,0.041,ppm,38,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-08-2025,AirNow,360050110,1,0.056,ppm,54,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-08-2025,AirNow,360050110,1,0.076,ppm,119,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-08-2025,AirNow,360050110,1,0.054,ppm,50,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-08-2025,AirNow,360050110,1,0.068,ppm,93,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-08-2025,AirNow,360050110,1,0.037,ppm,34,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-08-2025,AirNow,360050110,1,0.061,ppm,71,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-08-2025,AirNow,360050110,1,0.051,ppm,47,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+20-08-2025,AirNow,360050110,1,0.024,ppm,22,IS 52,21,88,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+21-08-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-08-2025,AirNow,360050110,1,0.043,ppm,40,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-08-2025,AirNow,360050110,1,0.044,ppm,41,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-08-2025,AirNow,360050110,1,0.031,ppm,29,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-08-2025,AirNow,360050110,1,0.046,ppm,43,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-08-2025,AirNow,360050110,1,0.039,ppm,36,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-08-2025,AirNow,360050110,1,0.028,ppm,26,IS 52,19,79,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-08-2025,AirNow,360050110,1,0.044,ppm,41,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-08-2025,AirNow,360050110,1,0.046,ppm,43,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-08-2025,AirNow,360050110,1,0.032,ppm,30,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+31-08-2025,AirNow,360050110,1,0.039,ppm,36,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-09-2025,AirNow,360050110,1,0.037,ppm,34,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-09-2025,AirNow,360050110,1,0.039,ppm,36,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-09-2025,AirNow,360050110,1,0.04,ppm,37,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+04-09-2025,AirNow,360050110,1,0.039,ppm,36,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+05-09-2025,AirNow,360050110,1,0.044,ppm,41,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+06-09-2025,AirNow,360050110,1,0.038,ppm,35,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+07-09-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+08-09-2025,AirNow,360050110,1,0.037,ppm,34,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+09-09-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+10-09-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+11-09-2025,AirNow,360050110,1,0.045,ppm,42,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+12-09-2025,AirNow,360050110,1,0.044,ppm,41,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+13-09-2025,AirNow,360050110,1,0.046,ppm,43,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+14-09-2025,AirNow,360050110,1,0.056,ppm,54,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+15-09-2025,AirNow,360050110,1,0.041,ppm,38,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+16-09-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+17-09-2025,AirNow,360050110,1,0.028,ppm,26,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+18-09-2025,AirNow,360050110,1,0.05,ppm,46,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+22-09-2025,AirNow,360050110,1,0.033,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+23-09-2025,AirNow,360050110,1,0.036,ppm,33,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+24-09-2025,AirNow,360050110,1,0.038,ppm,35,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+25-09-2025,AirNow,360050110,1,0.023,ppm,21,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+26-09-2025,AirNow,360050110,1,0.044,ppm,41,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+27-09-2025,AirNow,360050110,1,0.046,ppm,43,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+28-09-2025,AirNow,360050110,1,0.053,ppm,49,IS 52,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+29-09-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+30-09-2025,AirNow,360050110,1,0.043,ppm,40,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-10-2025,AirNow,360050110,1,0.03,ppm,28,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+02-10-2025,AirNow,360050110,1,0.033,ppm,31,IS 52,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+03-10-2025,AirNow,360050110,1,0.035,ppm,32,IS 52,23,96,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.816,-73.902
+01-01-2025,AirNow,360050133,1,0.03,ppm,28,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-01-2025,AirNow,360050133,1,0.022,ppm,20,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-01-2025,AirNow,360050133,1,0.026,ppm,24,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-01-2025,AirNow,360050133,1,0.033,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-01-2025,AirNow,360050133,1,0.03,ppm,28,PFIZER LAB SITE,22,92,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-01-2025,AirNow,360050133,1,0.025,ppm,23,PFIZER LAB SITE,20,83,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-01-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-01-2025,AirNow,360050133,1,0.032,ppm,30,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-01-2025,AirNow,360050133,1,0.033,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-01-2025,AirNow,360050133,1,0.031,ppm,29,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-01-2025,AirNow,360050133,1,0.035,ppm,32,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-01-2025,AirNow,360050133,1,0.03,ppm,28,PFIZER LAB SITE,21,88,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-01-2025,AirNow,360050133,1,0.024,ppm,22,PFIZER LAB SITE,21,88,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-01-2025,AirNow,360050133,1,0.031,ppm,29,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-01-2025,AirNow,360050133,1,0.032,ppm,30,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-01-2025,AirNow,360050133,1,0.016,ppm,15,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-01-2025,AirNow,360050133,1,0.019,ppm,18,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-01-2025,AirNow,360050133,1,0.025,ppm,23,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-01-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-01-2025,AirNow,360050133,1,0.025,ppm,23,PFIZER LAB SITE,20,83,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-01-2025,AirNow,360050133,1,0.018,ppm,17,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-01-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-01-2025,AirNow,360050133,1,0.031,ppm,29,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-01-2025,AirNow,360050133,1,0.032,ppm,30,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-01-2025,AirNow,360050133,1,0.031,ppm,29,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-01-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-01-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-01-2025,AirNow,360050133,1,0.035,ppm,32,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+31-01-2025,AirNow,360050133,1,0.012,ppm,11,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-02-2025,AirNow,360050133,1,0.034,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-02-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,21,88,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-02-2025,AirNow,360050133,1,0.008,ppm,7,PFIZER LAB SITE,20,83,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-02-2025,AirNow,360050133,1,0.035,ppm,32,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-02-2025,AirNow,360050133,1,0.031,ppm,29,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-02-2025,AirNow,360050133,1,0.02,ppm,19,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-02-2025,AirNow,360050133,1,0.033,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-02-2025,AirNow,360050133,1,0.027,ppm,25,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-02-2025,AirNow,360050133,1,0.027,ppm,25,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-02-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-02-2025,AirNow,360050133,1,0.02,ppm,19,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-02-2025,AirNow,360050133,1,0.034,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-02-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-02-2025,AirNow,360050133,1,0.038,ppm,35,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-02-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-02-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-02-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-02-2025,AirNow,360050133,1,0.035,ppm,32,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-02-2025,AirNow,360050133,1,0.032,ppm,30,PFIZER LAB SITE,22,92,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-02-2025,AirNow,360050133,1,0.026,ppm,24,PFIZER LAB SITE,20,83,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-02-2025,AirNow,360050133,1,0.033,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-02-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-02-2025,AirNow,360050133,1,0.04,ppm,37,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-02-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-02-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-02-2025,AirNow,360050133,1,0.042,ppm,39,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-02-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-02-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-03-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-03-2025,AirNow,360050133,1,0.038,ppm,35,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-03-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-03-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,22,92,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-03-2025,AirNow,360050133,1,0.04,ppm,37,PFIZER LAB SITE,19,79,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-03-2025,AirNow,360050133,1,0.042,ppm,39,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-03-2025,AirNow,360050133,1,0.043,ppm,40,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-03-2025,AirNow,360050133,1,0.043,ppm,40,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-03-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-03-2025,AirNow,360050133,1,0.045,ppm,42,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-03-2025,AirNow,360050133,1,0.045,ppm,42,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-03-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-03-2025,AirNow,360050133,1,0.042,ppm,39,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-03-2025,AirNow,360050133,1,0.038,ppm,35,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-03-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-03-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,22,92,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-03-2025,AirNow,360050133,1,0.024,ppm,22,PFIZER LAB SITE,20,83,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-03-2025,AirNow,360050133,1,0.035,ppm,32,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-03-2025,AirNow,360050133,1,0.034,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-03-2025,AirNow,360050133,1,0.025,ppm,23,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-03-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-03-2025,AirNow,360050133,1,0.044,ppm,41,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-03-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,21,88,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-03-2025,AirNow,360050133,1,0.031,ppm,29,PFIZER LAB SITE,21,88,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-03-2025,AirNow,360050133,1,0.043,ppm,40,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-03-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-03-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-03-2025,AirNow,360050133,1,0.042,ppm,39,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-03-2025,AirNow,360050133,1,0.047,ppm,44,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-03-2025,AirNow,360050133,1,0.038,ppm,35,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+31-03-2025,AirNow,360050133,1,0.028,ppm,26,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-04-2025,AQS,360050133,1,0.041,ppm,38,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-04-2025,AQS,360050133,1,0.021,ppm,19,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-04-2025,AQS,360050133,1,0.038,ppm,35,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-04-2025,AQS,360050133,1,0.035,ppm,32,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-04-2025,AQS,360050133,1,0.037,ppm,34,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-04-2025,AQS,360050133,1,0.031,ppm,29,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-04-2025,AQS,360050133,1,0.039,ppm,36,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-04-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-04-2025,AQS,360050133,1,0.047,ppm,44,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-04-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-04-2025,AQS,360050133,1,0.038,ppm,35,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-04-2025,AQS,360050133,1,0.041,ppm,38,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-04-2025,AQS,360050133,1,0.039,ppm,36,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-04-2025,AQS,360050133,1,0.044,ppm,41,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-04-2025,AQS,360050133,1,0.037,ppm,34,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-04-2025,AQS,360050133,1,0.046,ppm,43,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-04-2025,AQS,360050133,1,0.052,ppm,48,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-04-2025,AQS,360050133,1,0.054,ppm,50,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-04-2025,AQS,360050133,1,0.044,ppm,41,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-04-2025,AQS,360050133,1,0.043,ppm,40,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-04-2025,AQS,360050133,1,0.047,ppm,44,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-04-2025,AQS,360050133,1,0.054,ppm,50,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-04-2025,AQS,360050133,1,0.054,ppm,50,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-04-2025,AQS,360050133,1,0.052,ppm,48,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-04-2025,AQS,360050133,1,0.037,ppm,34,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-04-2025,AQS,360050133,1,0.037,ppm,34,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-04-2025,AQS,360050133,1,0.054,ppm,50,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-04-2025,AQS,360050133,1,0.047,ppm,44,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-04-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-05-2025,AQS,360050133,1,0.047,ppm,44,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-05-2025,AQS,360050133,1,0.052,ppm,48,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-05-2025,AQS,360050133,1,0.049,ppm,45,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-05-2025,AQS,360050133,1,0.034,ppm,31,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-05-2025,AQS,360050133,1,0.031,ppm,29,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-05-2025,AQS,360050133,1,0.034,ppm,31,PFIZER LAB SITE,15,88,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-05-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-05-2025,AQS,360050133,1,0.05,ppm,46,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-05-2025,AQS,360050133,1,0.032,ppm,30,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-05-2025,AQS,360050133,1,0.039,ppm,36,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-05-2025,AQS,360050133,1,0.052,ppm,48,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-05-2025,AQS,360050133,1,0.051,ppm,47,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-05-2025,AQS,360050133,1,0.039,ppm,36,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-05-2025,AQS,360050133,1,0.037,ppm,34,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-05-2025,AQS,360050133,1,0.032,ppm,30,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-05-2025,AQS,360050133,1,0.027,ppm,25,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-05-2025,AQS,360050133,1,0.048,ppm,44,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-05-2025,AQS,360050133,1,0.036,ppm,33,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-05-2025,AQS,360050133,1,0.033,ppm,31,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-05-2025,AQS,360050133,1,0.026,ppm,24,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-05-2025,AQS,360050133,1,0.031,ppm,29,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-05-2025,AQS,360050133,1,0.026,ppm,24,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-05-2025,AQS,360050133,1,0.019,ppm,18,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-05-2025,AQS,360050133,1,0.024,ppm,22,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-05-2025,AQS,360050133,1,0.029,ppm,27,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-05-2025,AQS,360050133,1,0.038,ppm,35,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-05-2025,AQS,360050133,1,0.039,ppm,36,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-05-2025,AQS,360050133,1,0.032,ppm,30,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-05-2025,AQS,360050133,1,0.036,ppm,33,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-05-2025,AQS,360050133,1,0.034,ppm,31,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+31-05-2025,AQS,360050133,1,0.035,ppm,32,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-06-2025,AQS,360050133,1,0.036,ppm,33,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-06-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-06-2025,AQS,360050133,1,0.053,ppm,49,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-06-2025,AQS,360050133,1,0.061,ppm,71,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-06-2025,AQS,360050133,1,0.066,ppm,87,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-06-2025,AQS,360050133,1,0.063,ppm,77,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-06-2025,AQS,360050133,1,0.03,ppm,28,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-06-2025,AQS,360050133,1,0.044,ppm,41,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-06-2025,AQS,360050133,1,0.039,ppm,36,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-06-2025,AQS,360050133,1,0.028,ppm,26,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-06-2025,AQS,360050133,1,0.062,ppm,74,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-06-2025,AQS,360050133,1,0.07,ppm,100,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-06-2025,AQS,360050133,1,0.052,ppm,48,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-06-2025,AQS,360050133,1,0.035,ppm,32,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-06-2025,AQS,360050133,1,0.034,ppm,31,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-06-2025,AQS,360050133,1,0.034,ppm,31,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-06-2025,AQS,360050133,1,0.019,ppm,18,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-06-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-06-2025,AQS,360050133,1,0.046,ppm,43,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-06-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-06-2025,AQS,360050133,1,0.067,ppm,90,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-06-2025,AQS,360050133,1,0.039,ppm,36,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-06-2025,AQS,360050133,1,0.077,ppm,122,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-06-2025,AQS,360050133,1,0.052,ppm,48,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-06-2025,AQS,360050133,1,0.051,ppm,47,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-06-2025,AQS,360050133,1,0.037,ppm,34,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-06-2025,AQS,360050133,1,0.035,ppm,32,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-06-2025,AQS,360050133,1,0.043,ppm,40,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-06-2025,AQS,360050133,1,0.05,ppm,46,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-06-2025,AQS,360050133,1,0.07,ppm,100,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-07-2025,AQS,360050133,1,0.051,ppm,47,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-07-2025,AQS,360050133,1,0.05,ppm,46,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-07-2025,AQS,360050133,1,0.058,ppm,61,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-07-2025,AQS,360050133,1,0.036,ppm,33,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-07-2025,AQS,360050133,1,0.062,ppm,74,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-07-2025,AQS,360050133,1,0.067,ppm,90,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-07-2025,AQS,360050133,1,0.03,ppm,28,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-07-2025,AQS,360050133,1,0.055,ppm,51,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-07-2025,AQS,360050133,1,0.056,ppm,54,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-07-2025,AirNow,360050133,1,0.058,ppm,61,PFIZER LAB SITE,19,79,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-07-2025,AQS,360050133,1,0.06,ppm,67,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-07-2025,AQS,360050133,1,0.049,ppm,45,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-07-2025,AQS,360050133,1,0.037,ppm,34,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-07-2025,AQS,360050133,1,0.035,ppm,32,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-07-2025,AQS,360050133,1,0.056,ppm,54,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-07-2025,AQS,360050133,1,0.052,ppm,48,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-07-2025,AQS,360050133,1,0.047,ppm,44,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-07-2025,AQS,360050133,1,0.04,ppm,37,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-07-2025,AQS,360050133,1,0.053,ppm,49,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-07-2025,AQS,360050133,1,0.055,ppm,51,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-07-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-07-2025,AQS,360050133,1,0.04,ppm,37,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-07-2025,AQS,360050133,1,0.042,ppm,39,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-07-2025,AQS,360050133,1,0.05,ppm,46,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-07-2025,AQS,360050133,1,0.06,ppm,67,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-07-2025,AQS,360050133,1,0.053,ppm,49,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-07-2025,AQS,360050133,1,0.037,ppm,34,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-07-2025,AQS,360050133,1,0.049,ppm,45,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-07-2025,AQS,360050133,1,0.069,ppm,97,PFIZER LAB SITE,17,100,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-07-2025,AQS,360050133,1,0.083,ppm,143,PFIZER LAB SITE,12,71,44201,Ozone,87,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+31-07-2025,AirNow,360050133,1,0.046,ppm,43,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-08-2025,AirNow,360050133,1,0.032,ppm,30,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-08-2025,AirNow,360050133,1,0.04,ppm,37,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-08-2025,AirNow,360050133,1,0.045,ppm,42,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-08-2025,AirNow,360050133,1,0.061,ppm,71,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-08-2025,AirNow,360050133,1,0.058,ppm,61,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-08-2025,AirNow,360050133,1,0.035,ppm,32,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-08-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-08-2025,AirNow,360050133,1,0.044,ppm,41,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-08-2025,AirNow,360050133,1,0.054,ppm,50,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-08-2025,AirNow,360050133,1,0.077,ppm,122,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-08-2025,AirNow,360050133,1,0.061,ppm,71,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-08-2025,AirNow,360050133,1,0.072,ppm,105,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-08-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-08-2025,AirNow,360050133,1,0.053,ppm,49,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-08-2025,AirNow,360050133,1,0.049,ppm,45,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-08-2025,AirNow,360050133,1,0.046,ppm,43,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-08-2025,AirNow,360050133,1,0.056,ppm,54,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+18-08-2025,AirNow,360050133,1,0.035,ppm,32,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+19-08-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+20-08-2025,AirNow,360050133,1,0.026,ppm,24,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+21-08-2025,AirNow,360050133,1,0.034,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-08-2025,AirNow,360050133,1,0.04,ppm,37,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-08-2025,AirNow,360050133,1,0.046,ppm,43,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-08-2025,AirNow,360050133,1,0.032,ppm,30,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-08-2025,AirNow,360050133,1,0.046,ppm,43,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-08-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-08-2025,AirNow,360050133,1,0.027,ppm,25,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-08-2025,AirNow,360050133,1,0.048,ppm,44,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-08-2025,AirNow,360050133,1,0.044,ppm,41,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-08-2025,AirNow,360050133,1,0.03,ppm,28,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+31-08-2025,AirNow,360050133,1,0.037,ppm,34,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-09-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-09-2025,AirNow,360050133,1,0.042,ppm,39,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-09-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+04-09-2025,AirNow,360050133,1,0.045,ppm,42,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+05-09-2025,AirNow,360050133,1,0.038,ppm,35,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+06-09-2025,AirNow,360050133,1,0.028,ppm,26,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+07-09-2025,AirNow,360050133,1,0.035,ppm,32,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+08-09-2025,AirNow,360050133,1,0.036,ppm,33,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+09-09-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,18,75,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+10-09-2025,AirNow,360050133,1,0.043,ppm,40,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+11-09-2025,AirNow,360050133,1,0.044,ppm,41,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+12-09-2025,AirNow,360050133,1,0.046,ppm,43,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+13-09-2025,AirNow,360050133,1,0.056,ppm,54,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+14-09-2025,AirNow,360050133,1,0.04,ppm,37,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+15-09-2025,AirNow,360050133,1,0.03,ppm,28,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+16-09-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+17-09-2025,AirNow,360050133,1,0.049,ppm,45,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+22-09-2025,AirNow,360050133,1,0.033,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+23-09-2025,AirNow,360050133,1,0.04,ppm,37,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+24-09-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+25-09-2025,AirNow,360050133,1,0.021,ppm,19,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+26-09-2025,AirNow,360050133,1,0.041,ppm,38,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+27-09-2025,AirNow,360050133,1,0.046,ppm,43,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+28-09-2025,AirNow,360050133,1,0.054,ppm,50,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+29-09-2025,AirNow,360050133,1,0.034,ppm,31,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+30-09-2025,AirNow,360050133,1,0.042,ppm,39,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+01-10-2025,AirNow,360050133,1,0.029,ppm,27,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+02-10-2025,AirNow,360050133,1,0.032,ppm,30,PFIZER LAB SITE,24,100,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
+03-10-2025,AirNow,360050133,1,0.038,ppm,35,PFIZER LAB SITE,23,96,44201,Ozone,,35620,"New York-Newark-Jersey City, NY-NJ-PA",36,New York,5,Bronx,40.8679,-73.87809
