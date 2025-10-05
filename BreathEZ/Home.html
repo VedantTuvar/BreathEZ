@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BreathEZ | Home</title>
+    <link rel="stylesheet" href="/Home.css" />
+    <link rel="icon" type="image/x-icon" sizes="16x16" href="/Logo/BreathEZ Favicon.png " />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="./leaflet-dist/leaflet.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+
+    <!-- Navbar -->
+
+    <header>
+        <div class="logo">
+            <img src="/Logo/BreathEZ Background Remove Logo.png" alt="logo" />
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">World AQI</a></li>
+                <li><a href="#">Weekly Data</a></li>
+            </ul>
+        </nav>
+
+        <div class="nav-right">
+            <select id="citySelector">
+                <option>Morristown, USA</option>
+                <option>Bronx, USA</option>
+            </select>
+            <div class="toggle-btn" id="themeToggle">
+                <i class="fa-solid fa-sun"></i>
+            </div>
+            <div class="user-icon"><i class="fa-solid fa-user"></i></div>
+        </div>
+    </header>
+
+    <!-- Main Section -->
+
+    <main>
+        <center>
+            <h1 class="page-title">Global Air Quality Map</h1>
+        </center>
+        <center>
+            <p class="subtitle">Real-time air quality monitoring worldwide</p>
+        </center>
+
+        <div class="content">
+
+            <!-- Interactive Map Section -->
+
+            <div class="map-section">
+                <div class="section-title">
+                    <i class="fa-solid fa-map-location-dot"></i>Interactive Map
+                </div>
+                <section class="map-section">
+                    <div id="map">
+                        <img src="https://leafletjs.com/examples/quick-start/thumbnail.png" alt="">
+                    </div>
+                </section>
+
+            </div>
+
+            <!-- Location Details Section -->
+
+            <div class="details-section">
+                <div class="section-title">
+                    <i class="fa-solid fa-location-dot"></i>Location Details
+                </div>
+                <div class="details-content" id="locationDetails">
+                    <p>Click on a location pin to view details</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <main class="container">
+        <div class="header">
+            <div>
+                <center>
+                    <h1>Current Air Quality</h1>
+                </center>   
+            </div>
+            <button class="live-btn">Live Data</button>
+        </div>
+
+        <div class="cards">
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="fa-solid fa-cloud"></i> AQI</span>
+                    <span class="change up">+12</span>
+                </div>
+                <h2>184</h2>
+                <p>
+                    <strong>Status:</strong>
+                    <span class="status unhealthy">UNHEALTHY</span>
+                </p>
+                <p><strong>Level:</strong> 37%</p>
+                <div class="progress-bar">
+                    <div class="fill unhealthy-fill" style="width: 37%"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="fa-solid fa-smog"></i> PM2.5</span>
+                    <span class="change up">+8.2</span>
+                </div>
+                <h2>98.5 <small>µg/m³</small></h2>
+                <p>
+                    <strong>Status:</strong>
+                    <span class="status unhealthy">UNHEALTHY</span>
+                </p>
+                <p><strong>Level:</strong> 39%</p>
+                <div class="progress-bar">
+                    <div class="fill unhealthy-fill" style="width: 39%"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="fa-solid fa-smog"></i> PM10</span>
+                    <span class="change down">-5.1</span>
+                </div>
+                <h2>156.3 <small>µg/m³</small></h2>
+                <p>
+                    <strong>Status:</strong>
+                    <span class="status moderate">MODERATE</span>
+                </p>
+                <p><strong>Level:</strong> 45%</p>
+                <div class="progress-bar">
+                    <div class="fill moderate-fill" style="width: 45%"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="fa-solid fa-thermometer"></i> Temperature</span>
+                    <span class="change neutral">±0.5</span>
+                </div>
+                <h2>28 <small>°C</small></h2>
+                <p><strong>Status:</strong> <span class="status good">GOOD</span></p>
+                <p><strong>Level:</strong> 56%</p>
+                <div class="progress-bar">
+                    <div class="fill good-fill" style="width: 56%"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="fa-solid fa-droplet"></i> Humidity</span>
+                    <span class="change down">-3.2</span>
+                </div>
+                <h2>72 <small>%</small></h2>
+                <p><strong>Status:</strong> <span class="status good">GOOD</span></p>
+                <p><strong>Level:</strong> 72%</p>
+                <div class="progress-bar">
+                    <div class="fill good-fill" style="width: 72%"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="fa-solid fa-wind"></i> Wind</span>
+                    <span class="change down">-1.1</span>
+                </div>
+                <h2>4.2 <small>km</small></h2>
+                <p>
+                    <strong>Status:</strong>
+                    <span class="status moderate">MODERATE</span>
+                </p>
+                <p><strong>Level:</strong> 42%</p>
+                <div class="progress-bar">
+                    <div class="fill moderate-fill" style="width: 42%"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="fa-solid fa-industry"></i> NO2</span>
+                    <span class="change down">-1.1</span>
+                </div>
+                <h2>4.2 <small>km</small></h2>
+                <p>
+                    <strong>Status:</strong>
+                    <span class="status moderate">MODERATE</span>
+                </p>
+                <p><strong>Level:</strong> 42%</p>
+                <div class="progress-bar">
+                    <div class="fill moderate-fill" style="width: 42%"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="fa-solid fa-earth-americas"></i> Ozone</span>
+                    <span class="change down">-1.1</span>
+                </div>
+                <h2>4.2 <small>km</small></h2>
+                <p>
+                    <strong>Status:</strong>
+                    <span class="status moderate">MODERATE</span>
+                </p>
+                <p><strong>Level:</strong> 42%</p>
+                <div class="progress-bar">
+                    <div class="fill moderate-fill" style="width: 42%"></div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <section class="container1">
+        <center>
+            <h2 class="main-title">
+                <i class="fa-solid fa-triangle-exclamation"></i> Health Alerts &
+                Recommendations
+            </h2>
+        </center>
+        <center>
+            <p class="subtitle">
+                Stay informed about air quality risks and protective measures
+            </p>
+        </center>
+
+        <div class="alert-box critical">
+            <div class="alert-header">
+                <h3>Air Quality Alert - Unhealthy Levels</h3>
+                <span class="tag critical-tag">Critical</span>
+            </div>
+            <p class="alert-info">
+                Current AQI in New Delhi, India is 184 - Unhealthy for all groups
+            </p>
+            <div class="recommended">
+                <h4>Recommended Actions:</h4>
+                <p>
+                    Avoid outdoor activities. Use air purifiers indoors. Wear N95 masks
+                    if you must go outside.
+                </p>
+            </div>
+        </div>
+
+        <div class="alert-box warning">
+            <div class="alert-header">
+                <h3>High PM2.5 Concentration</h3>
+                <span class="tag warning-tag">Warning</span>
+            </div>
+            <p class="alert-info">
+                PM2.5 levels are 2.5x above WHO recommended limits
+            </p>
+            <div class="recommended">
+                <h4>Recommended Actions:</h4>
+                <p>
+                    Close windows and doors. Limit outdoor exercise. Consider using air
+                    purifiers.
+                </p>
+            </div>
+        </div>
+
+        <div class="alert-box warning">
+            <div class="alert-header">
+                <h3>Sensitive Groups Advisory</h3>
+                <span class="tag sensitive-tag">Sensitive Groups</span>
+                <span class="tag warning-tag">Warning</span>
+            </div>
+            <p class="alert-info">
+                People with heart/lung conditions, older adults, and children should
+                take extra precautions.
+            </p>
+            <div class="recommended">
+                <h4>Recommended Actions:</h4>
+                <p>
+                    Stay indoors as much as possible. Monitor symptoms closely. Have
+                    medications ready.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="tips-container">
+        <div class="tips-header">
+            <span class="info-icon"><i class="fa-solid fa-circle-info"></i></span>
+            <h2>Personalized Health Tips</h2>
+        </div>
+
+        <div class="tips-grid">
+            <div class="tip-card">
+                <div class="tip-icon"><i class="fa-solid fa-house-chimney"></i></div>
+                <div class="tip-content">
+                    <h3>Indoor Air Quality</h3>
+                    <p>Keep windows closed and use air purifiers with HEPA filters</p>
+                </div>
+            </div>
+
+            <div class="tip-card">
+                <div class="tip-icon"><i class="fa-solid fa-shield-halved"></i></div>
+                <div class="tip-content">
+                    <h3>Personal Protection</h3>
+                    <p>Wear N95 or equivalent masks when outdoors</p>
+                </div>
+            </div>
+
+            <div class="tip-card">
+                <div class="tip-icon">
+                    <i class="fa-solid fa-heart-circle-check"></i>
+                </div>
+                <div class="tip-content">
+                    <h3>Physical Activity</h3>
+                    <p>Avoid outdoor exercise. Choose indoor activities instead</p>
+                </div>
+            </div>
+
+            <div class="tip-card">
+                <div class="tip-icon"><i class="fa-solid fa-shield-heart"></i></div>
+                <div class="tip-content">
+                    <h3>Health Monitoring</h3>
+                    <p>
+                        Watch for symptoms like coughing, chest pain, or breathing
+                        difficulty
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Charts -->
+
+    <div class="container">
+        <div class="header">
+            <div class="status">
+                <span class="dot"></span> Live monitoring active
+            </div>
+            <div class="updated">Last updated: 2 minutes ago</div>
+        </div>
+
+        <h2 class="title">
+            <i class="fa-solid fa-calendar-days"></i> Historical & Forecast Data
+        </h2>
+        <p class="subtitle">Track air quality trends over time</p>
+
+        <div class="tabs">
+            <button class="active">24 Hours</button>
+            <button>7 Days</button>
+        </div>
+
+        <div class="chart-grid">
+            <div class="chart-card"><canvas id="chart1"></canvas></div>
+            <div class="chart-card"><canvas id="chart2"></canvas></div>
+            <div class="chart-card"><canvas id="chart3"></canvas></div>
+            <div class="chart-card"><canvas id="chart4"></canvas></div>
+            <div class="chart-card large"><canvas id="chart5"></canvas></div>
+        </div>
+    </div>
+
+    <!-- End Part -->
+
+    <div class="container">
+        <h2 class="title"><i class="fa-solid fa-wind"></i> Air Quality Index Guide</h2>
+        <p class="subtitle">
+            Understanding AQI levels and their health implications
+        </p>
+
+        <section class="aqi-scale">
+            <h3>AQI Scale & Health Recommendations</h3>
+
+            <div class="aqi-card good">
+                <div class="aqi-range">0–50 | Good</div>
+                <div class="aqi-info">
+                    <p>
+                        <b>Health Implications:</b> Air quality is considered
+                        satisfactory.
+                    </p>
+                    <p>
+                        <b>Cautionary Statement:</b> Air pollution poses little or no
+                        risk.
+                    </p>
+                </div>
+            </div>
+
+            <div class="aqi-card moderate">
+                <div class="aqi-range">51–100 | Moderate</div>
+                <div class="aqi-info">
+                    <p>
+                        <b>Health Implications:</b> Air quality is acceptable for most
+                        people.
+                    </p>
+                    <p>
+                        <b>Cautionary Statement:</b> Unusually sensitive people should
+                        consider reducing prolonged outdoor exertion.
+                    </p>
+                </div>
+            </div>
+
+            <div class="aqi-card sensitive">
+                <div class="aqi-range">
+                    101–150 | Unhealthy for Sensitive Groups
+                </div>
+                <div class="aqi-info">
+                    <p>
+                        <b>Health Implications:</b> Members of sensitive groups may
+                        experience health effects.
+                    </p>
+                    <p>
+                        <b>Cautionary Statement:</b> Children, elderly, and people with
+                        respiratory conditions should limit outdoor exertion.
+                    </p>
+                </div>
+            </div>
+
+            <div class="aqi-card unhealthy">
+                <div class="aqi-range">
+                    151–200| Unhealthy
+                </div>
+                <div class="aqi-info">
+                    <p>
+                        <b>Health Implications:</b> Everyone may begin to experience
+                        health effects.
+                    </p>
+                    <p>
+                        <b>Cautionary Statement:</b> Everyone should limit outdoor
+                        exertion.
+                    </p>
+                </div>
+            </div>
+
+            <div class="aqi-card very-unhealthy">
+                <div class="aqi-range">
+                    201–300 | Very Unhealthy
+                </div>
+                <div class="aqi-info">
+                    <p>
+                        <b>Health Implications:</b> Health warnings of emergency
+                        conditions.
+                    </p>
+                    <p>
+                        <b>Cautionary Statement:</b> Sensitive groups should remain
+                        indoors.
+                    </p>
+                </div>
+            </div>
+
+            <div class="aqi-card hazardous">
+                <div class="aqi-range">
+                    301–500 | Hazardous
+                </div>
+                <div class="aqi-info">
+                    <p>
+                        <b>Health Implications:</b> Health alert: everyone may experience
+                        serious health effects.
+                    </p>
+                    <p>
+                        <b>Cautionary Statement:</b> Everyone should avoid outdoor
+                        activities.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="pollutants">
+            <h3>Key Pollutants</h3>
+            <div class="pollutant-grid">
+                <div class="pollutant-card">
+                    <h4>PM2.5</h4>
+                    <p><b>Particles:</b> Smaller than 2.5 micrometers</p>
+                    <p>
+                        <b>Sources:</b> Vehicle exhaust, industrial emissions, wood
+                        burning
+                    </p>
+                    <p><b>Health Effects:</b> Respiratory and cardiovascular issues</p>
+                </div>
+                <div class="pollutant-card">
+                    <h4>PM10</h4>
+                    <p><b>Particles:</b> Smaller than 10 micrometers</p>
+                    <p><b>Sources:</b> Dust, pollen, vehicle emissions</p>
+                    <p>
+                        <b>Health Effects:</b> Respiratory irritation, reduced lung
+                        function
+                    </p>
+                </div>
+                <div class="pollutant-card">
+                    <h4>O₃</h4>
+                    <p><b>Type:</b> Ground-level ozone</p>
+                    <p>
+                        <b>Sources:</b> Chemical reactions between NOx and VOCs in
+                        sunlight
+                    </p>
+                    <p><b>Health Effects:</b> Respiratory inflammation, chest pain</p>
+                </div>
+                <div class="pollutant-card">
+                    <h4>NO₂</h4>
+                    <p><b>Type:</b> Nitrogen dioxide</p>
+                    <p><b>Sources:</b> Vehicle emissions, power plants</p>
+                    <p><b>Health Effects:</b> Respiratory symptoms, reduced immunity</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="sensitive-groups">
+            <h3><i class="fa-solid fa-user-group"></i> Sensitive Groups</h3>
+            <div class="group-grid">
+                <div class="group-card">
+                    <h4>Children</h4>
+                    <p>
+                        Developing respiratory systems make children more vulnerable to
+                        air pollution.
+                    </p>
+                </div>
+                <div class="group-card">
+                    <h4>Older Adults (65+)</h4>
+                    <p>
+                        Age-related decline in immune function increases vulnerability.
+                    </p>
+                </div>
+                <div class="group-card">
+                    <h4>People with Conditions</h4>
+                    <p>
+                        Heart disease, asthma, COPD, and diabetes increase sensitivity.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>
+                © 2025 BreathEZ. Real-time air quality monitoring for healthier
+                communities.
+            </p>
+        </footer>
+    </div>
+
+    <!-- Leaflet JS -->
+<script src="./leaflet-dist/leaflet.js"></script>
+
+
+    <script src="/Home.js"></script>
+
+
+</body>
+
+</html>
